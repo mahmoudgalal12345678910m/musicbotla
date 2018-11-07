@@ -1,5 +1,6 @@
 token=NTA5NTY5NzM2Njg2OTYwNjUy.DsPtdQ.DQiCYn4PKAXhf_ZAXy-cl6MfD5g
 owner=200644160179535872 
 prefix=m
-game=Malicious Music
+game=Malicious
 stayinchannel=true
+songinstatus=false
